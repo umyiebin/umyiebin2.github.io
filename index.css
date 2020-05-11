@@ -1,0 +1,7 @@
+h1{
+    text-align : center;
+    color : pink
+    font-weight: bold;
+    text-shadow: -1px 0 #4374D9, 0 1px #4374D9, 1px 0 #4374D9, 0 -1px #4374D9;
+    
+}
